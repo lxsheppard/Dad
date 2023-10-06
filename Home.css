@@ -1,5 +1,6 @@
  .u-section-1 {
-  background-image: url("/images/Dad-Duotone-2-Dark.png");
+  background-image: url("images/Dad-Duotone-2-Dark.png");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -24,10 +25,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-1 {
-    background-position: 50% 50%;
-  }
-
   .u-section-1 .u-sheet-1 {
     min-height: 581px;
   }
@@ -81,7 +78,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 807px;
-  background-image: url("/images/Dad-Duotone-Dark.png");
+  background-image: url("images/Dad-Duotone-Dark.png");
   background-position: 50% 50%;
 }
 
@@ -191,7 +188,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 468px;
-  background-image: url("/images/71069959_10156888365942880_5590808024974360576_n.jpg");
+  background-image: url("images/71069959_10156888365942880_5590808024974360576_n.jpg");
   background-position: 50% 50%;
 }
 
@@ -338,7 +335,7 @@
 
 .u-section-5 .u-image-1 {
   min-height: 393px;
-  background-image: url("/images/60db62cdf21f6.image.jpg");
+  background-image: url("images/60db62cdf21f6.image.jpg");
   background-position: 50% 50%;
 }
 
